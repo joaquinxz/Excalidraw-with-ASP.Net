@@ -1,1 +1,1 @@
-# Integration of Escalidraw in an ASP.Net Web project with local libraries
+# Integration of Excalidraw in an ASP.Net Web project with local libraries
